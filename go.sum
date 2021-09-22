@@ -1,0 +1,4 @@
+github.com/aaronc/go-module-experiments/foo/v1beta1 v0.0.0-20210922151237-c9f337f589f5 h1:iAk7L5KYWsqBQj4u+oXIoEsr5EjG/A8mne6rx3wvGcE=
+github.com/aaronc/go-module-experiments/foo/v1beta1 v0.0.0-20210922151237-c9f337f589f5/go.mod h1:Y5mFqE03j7Wz1gyMsJdqY7OX7dA8ivq+QlTGIYqU0pU=
+github.com/aaronc/go-module-experiments/foo/v2 v2.0.0-20210922151237-c9f337f589f5 h1:kxhJqF3lNWCCTM2atu4DsxnHV4sH5+3pIbO6O8uBu4k=
+github.com/aaronc/go-module-experiments/foo/v2 v2.0.0-20210922151237-c9f337f589f5/go.mod h1:MgTYqnpJGi1r3u2dMzu0+0KIMc2VGynONQqHONCXIzI=
