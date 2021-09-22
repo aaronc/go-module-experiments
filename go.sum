@@ -1,3 +1,7 @@
+github.com/aaronc/go-module-experiments/bar v0.0.0-20210922152038-5c6ba562596c h1:6AeDs6c3BwbZTYlLok49Pi/NAMfeoI5yi0w908ygrcg=
+github.com/aaronc/go-module-experiments/bar v0.0.0-20210922152038-5c6ba562596c/go.mod h1:GgZxqI6AIeHtrdLIzdZrEeMua1S+gplMCQH0vNVYzOQ=
+github.com/aaronc/go-module-experiments/bar/v2 v2.0.0-20210922152038-5c6ba562596c h1:ls0aP/8HbNEZE/k3vhA2xRTE57chxCexdQ2ReTGAFL8=
+github.com/aaronc/go-module-experiments/bar/v2 v2.0.0-20210922152038-5c6ba562596c/go.mod h1:tIHQibQxbVsO5L47D00USo/601JTdtXAAegjUCobITk=
 github.com/aaronc/go-module-experiments/foo/v1beta1 v0.0.0-20210922151237-c9f337f589f5 h1:iAk7L5KYWsqBQj4u+oXIoEsr5EjG/A8mne6rx3wvGcE=
 github.com/aaronc/go-module-experiments/foo/v1beta1 v0.0.0-20210922151237-c9f337f589f5/go.mod h1:Y5mFqE03j7Wz1gyMsJdqY7OX7dA8ivq+QlTGIYqU0pU=
 github.com/aaronc/go-module-experiments/foo/v2 v2.0.0-20210922151237-c9f337f589f5 h1:kxhJqF3lNWCCTM2atu4DsxnHV4sH5+3pIbO6O8uBu4k=
